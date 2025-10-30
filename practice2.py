@@ -25,4 +25,3 @@ print(f"""
 #곱: {multiplication}
 #나눗셈: {division}
 #""")
-  #jjj
